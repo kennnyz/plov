@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bonki)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Muhammed-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bonki)
 
     
 
