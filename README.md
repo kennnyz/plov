@@ -10,6 +10,9 @@
   <a href="https://twitter.com/plovinamerica">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="https://www.youtube.com/channel/UChn2L0vf3n47KNdx1HRLM2A">
+    <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
   <h1>
   hey there
