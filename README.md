@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/K6LQWZDmgFM8o/giphy.gif" width="600" height="300"/>
 </div>
 </div>
-About Me : <h2>:man_technologist: About me:</h2>
+<h2>:man_technologist: About me:</h2>
 
     
 
